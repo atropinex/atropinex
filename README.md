@@ -26,6 +26,7 @@ My projects follow a naming convention based on their purpose, with each categor
 | Prefix | Category | Description |
 | --- | --- | --- |
 | `Flux` | Desktop Applications | Desktop software and system utilities. |
+| `Nova` | Games | Video games, interactive experiences, and game worlds. |
 | `Astral` | Web Applications | Websites, web apps, and browser-based tools. |
 | `Comet` | Extensions & Plugins | Extensions that enhance existing software. |
 | `Orbit` | Libraries & SDKs | Reusable libraries and shared components. |
@@ -35,7 +36,7 @@ My projects follow a naming convention based on their purpose, with each categor
 
 Each project uses the following naming convention:
 
-`Category ProjectName`
+`Prefix | Category | Project Name`
 
 ## 🚀 What I Work With
 
