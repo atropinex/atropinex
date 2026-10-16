@@ -35,7 +35,7 @@ My projects follow a naming convention based on their purpose, with each categor
 
 Each project uses the following naming convention:
 
-`ff:Category ProjectName`
+`Category ProjectName`
 
 ## 🚀 What I Work With
 
