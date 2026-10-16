@@ -19,7 +19,7 @@ I build software applications, games, web applications, and development tools. I
 
 **PostgreSQL · Git · GitHub · JetBrains IDEs**
 
-## 🌌 The `ff:` Project Ecosystem
+## 🌌 The Project Ecosystem
 
 My projects follow a naming convention based on their purpose, with each category represented by a space-inspired name.
 
