@@ -8,7 +8,7 @@ I build software applications, games, web applications, and development tools. I
 
 | Frontend | Backend | Game Dev | Tools |
 | :---: | :---: | :---: | :---: |
-| [![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind)](https://skillicons.dev) | [![Backend](https://skillicons.dev/icons?i=go,ts,dotnet,postgres,firebase,supabase)](https://skillicons.dev) | [![Game Dev](https://skillicons.dev/icons?i=unity,cs)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,postman,idea)](https://skillicons.dev)
+| [![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind)](https://skillicons.dev) | [![Backend](https://skillicons.dev/icons?i=go,ts,postgres,firebase,supabase)](https://skillicons.dev) | [![Game Dev](https://skillicons.dev/icons?i=unity,cs)](https://skillicons.dev) | [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,postman,idea)](https://skillicons.dev)
 
 ---
 
