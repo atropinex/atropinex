@@ -1,4 +1,4 @@
-# Hi there im Atropine! 👋
+# Hi there, I'm Atropine! 👋
 
 I build software applications, games, web applications, and development tools. I enjoy exploring different technologies and creating practical solutions across the software development ecosystem.
 
